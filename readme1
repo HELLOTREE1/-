@@ -1,0 +1,6 @@
+Robots协议　网络爬虫排除标准
+网站告知网络爬虫那些页面可以抓取，那些不行
+robots.txt
+eg:
+    https://www.baidu.com/robots.txt
+    https://www.qq.com/robots.txt
