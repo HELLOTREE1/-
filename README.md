@@ -9,4 +9,4 @@ HTTP协议
                                  path：请求资源的路径
 http://220.181.111.188/duty:  url是通过HTTP协议存取资源的Internet路径，一个url对应一个数据资源   
 通过URL和命令管理资源，操作独立无状态，网络通道和服务器成为黑盒子
-![image1]-/HTTP.png
+![image1](https://github.com/HELLOTREE1/-/blob/master/HTTP.png)
